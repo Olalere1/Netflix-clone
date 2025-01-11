@@ -85,8 +85,14 @@ Step 14 — Terminate the AWS EC2 Instances.
 
 ![image](https://github.com/user-attachments/assets/5ffbf8f9-68a1-42b3-af6b-3e33d45e5cac)
 
+12. Email notification for failed build with detailed logs of TRIVY Image Scan attached
+
+![image](https://github.com/user-attachments/assets/ef4faf52-25b8-43dd-a8b6-814c434c3303)
 
 
+13. Email notification for successful build with detailed logs of TRIVY Image Scan attached
+
+![image](https://github.com/user-attachments/assets/db04a500-7a1b-48c7-925f-3347f1c323c8)
 
 
 
