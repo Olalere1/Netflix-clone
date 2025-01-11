@@ -37,6 +37,30 @@ Step 14 — Terminate the AWS EC2 Instances.
 ![image](https://github.com/user-attachments/assets/c9510e7a-f8b5-492b-ad23-f5564e5f115c)
 
 
+2. Node_exporter for exfiltrating CPU and Disk IO confirmed
+
+![image](https://github.com/user-attachments/assets/6e1889fd-aa44-4d57-be57-cb5c844e5cc0)
+
+
+3. Static targets setup on the Prometheus system
+
+![image](https://github.com/user-attachments/assets/33bc20d5-5af8-4878-8ba8-d315223fbf0a)
+
+
+4. Graffana set up complete at the CLI
+
+![image](https://github.com/user-attachments/assets/b843b59f-3c24-4238-9cab-a4930ede7df3)
+
+
+5. Graffana dashboard from the Prometheus server with Node_exporter target
+
+![image](https://github.com/user-attachments/assets/5bb63cab-d6ff-4474-b5a2-cea6be3bf9de)
+
+6. Graffana dashboard from the prometheus server with jenkins as target
+
+![image](https://github.com/user-attachments/assets/ad563fa4-11b3-4bcf-a6b0-57046826df3a)
+
+
 
 
 
