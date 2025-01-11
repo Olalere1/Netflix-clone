@@ -61,6 +61,31 @@ Step 14 — Terminate the AWS EC2 Instances.
 ![image](https://github.com/user-attachments/assets/ad563fa4-11b3-4bcf-a6b0-57046826df3a)
 
 
+7. Security Scans
+
+![image](https://github.com/user-attachments/assets/db027aeb-abc7-4aa9-8685-63f5e50c6005)
+
+
+8. Security and Vulnerability scan using OWASP
+
+![image](https://github.com/user-attachments/assets/4ad3d9af-4f85-4bf7-b85b-e3bdb97fb220)
+
+
+9. Docker Image built and pushed after some troubleshooting with the configuration set up
+
+![image](https://github.com/user-attachments/assets/eeb4a6c4-6947-46f3-81ee-eff3f97bd8ef)
+
+
+10. Dockerized Netflix clone without the API key in the
+
+![image](https://github.com/user-attachments/assets/17c7ed56-86dd-4f42-909a-196f873cd01c)
+
+
+11. Dockerized Netflix clone with API keys in the build
+
+![image](https://github.com/user-attachments/assets/5ffbf8f9-68a1-42b3-af6b-3e33d45e5cac)
+
+
 
 
 
